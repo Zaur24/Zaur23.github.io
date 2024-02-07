@@ -1,0 +1,27 @@
+.yel {
+    background-color: yellow;
+    
+    min-height: 200px;
+    margin-bottom: 24px;
+}
+
+
+.gri {
+    background-color: green;
+    min-height: 200px;
+    margin-bottom: 24px;
+   
+    
+}
+
+.re {
+    background-color: red;
+    margin-bottom: 24px;
+    min-height: 200px;
+}
+
+.bl {
+    background-color: black;
+    margin-bottom: 24px;
+    min-height: 200px;
+}
